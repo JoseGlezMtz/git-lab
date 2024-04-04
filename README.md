@@ -17,7 +17,7 @@ José Antonio González
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 
-### This repository was made to practice the fundamentals of gtihub
+
 
 ## References 
 [Github documentation]( https://docs.github.com/en)
