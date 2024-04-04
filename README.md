@@ -6,7 +6,11 @@ José Antonio González
 
 ## Contents
 ### Code examples
-```python A+B ```
+```python
+    a=1
+    b=2
+    print (a+b)
+```
 
 ### List
 - [ ] Turn on GitHub Pages
