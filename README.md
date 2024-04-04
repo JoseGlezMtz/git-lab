@@ -6,7 +6,7 @@ José Antonio González
 
 ## Contents
 ### Code examples
-```python A+B```
+```python A+B ```
 
 ### List
 - [ ] Turn on GitHub Pages
