@@ -29,6 +29,6 @@ José Antonio González
 ### Images
 
 ![8bit minecraft heart](/pngegg.png )
-![Mano que sostiene simbolo de error](/mano.JPG )
+![Mano que sostiene simbolo de error](/mano.jpg )
 
 
